@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,128 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "Billy",
+      "email": "email@gmail.com",
+      "id": 23
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
